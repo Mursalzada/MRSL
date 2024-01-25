@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence**
 
-- 📝 I regularly write articles on [https://medium.com/@mmurselzade](https://medium.com/@mmurselzade)
+- 📝 I regularly write articles on [https://medium.com/@mursalzada](https://medium.com/@mursalzada)
 
 - 📫 How to reach me **mursalmursalzada@gmail.com**
 
