@@ -1,5 +1,5 @@
 # MRSL
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mursal Mursalzada</h1>
 <h3 align="center">I'm Cybersecurity specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://www.esds.co.in/blog/wp-content/uploads/2019/05/cyber-attack-gif.gif">
